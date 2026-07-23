@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jesus Peña Cordova
+# Jesus Pena Cordova
 
 ### AI Automation Developer · Prompt Engineer · AI Trainer · LLM Specialist
 
