@@ -1,6 +1,17 @@
 <div align="center">
 
 # Jesus Pena Cordova
+## 📄 Professional Resume
+
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/📄-Download%20Resume-blue?style=for-the-badge)](./Jesus_Pena_AI_Resume.pdf)
+
+</div>
+
+Looking for a detailed overview of my experience in AI Training, Prompt Engineering, LLM Evaluation, Automation and Software Development?
+
+**⬆️ Download my latest professional resume using the button above.**
 
 ### AI Automation Developer · Prompt Engineer · AI Trainer · LLM Specialist
 
